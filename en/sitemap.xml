@@ -5,11 +5,26 @@
   <url>
     <loc>https://uu815000.github.io/coehhu.com/en/blog/blog-photos-on-phone/</loc>
     <lastmod>2018-07-08T12:22:40+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://uu815000.github.io/coehhu.com/blog/blog-photos-on-phone/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://uu815000.github.io/coehhu.com/en/blog/blog-photos-on-phone/"
+                />
   </url>
   
   <url>
     <loc>https://uu815000.github.io/coehhu.com/en/</loc>
     <lastmod>2018-07-08T12:22:40+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://uu815000.github.io/coehhu.com/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -23,28 +38,13 @@
   </url>
   
   <url>
-    <loc>https://uu815000.github.io/coehhu.com/en/blog/installation/</loc>
-    <lastmod>2018-07-08T12:22:40+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uu815000.github.io/coehhu.com/en/blog/the-nourish-box-august/</loc>
-    <lastmod>2018-07-08T12:20:58+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uu815000.github.io/coehhu.com/en/blog/this-show-has-divided/</loc>
-    <lastmod>2018-07-08T12:18:46+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uu815000.github.io/coehhu.com/en/blog/why-you-need-a-statement-bag-this-season/</loc>
-    <lastmod>2018-07-08T12:11:29+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://uu815000.github.io/coehhu.com/en/blog/</loc>
     <lastmod>2018-07-07T18:23:33+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://uu815000.github.io/coehhu.com/blog/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -70,16 +70,6 @@
                 hreflang="en"
                 href="https://uu815000.github.io/coehhu.com/en/blog/are-you-doing-the-right-way/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://uu815000.github.io/coehhu.com/en/blog/something-i-need-to-tell-you/</loc>
-    <lastmod>2018-07-07T17:04:02+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uu815000.github.io/coehhu.com/en/blog/ten-things-about-business/</loc>
-    <lastmod>2018-07-07T16:57:54+06:00</lastmod>
   </url>
   
   <url>
@@ -151,6 +141,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://uu815000.github.io/coehhu.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://uu815000.github.io/coehhu.com/en/categories/"
                 />
@@ -162,6 +157,11 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://uu815000.github.io/coehhu.com/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://uu815000.github.io/coehhu.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"

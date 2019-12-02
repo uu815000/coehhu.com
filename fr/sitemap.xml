@@ -7,6 +7,11 @@
     <lastmod>2018-07-07T18:23:33+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://uu815000.github.io/coehhu.com/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://uu815000.github.io/coehhu.com/en/blog/"
                 />
@@ -35,6 +40,11 @@
   <url>
     <loc>https://uu815000.github.io/coehhu.com/fr/</loc>
     <lastmod>2018-07-07T17:04:41+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://uu815000.github.io/coehhu.com/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -111,6 +121,11 @@
     <loc>https://uu815000.github.io/coehhu.com/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://uu815000.github.io/coehhu.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://uu815000.github.io/coehhu.com/en/categories/"
                 />
@@ -123,6 +138,11 @@
   
   <url>
     <loc>https://uu815000.github.io/coehhu.com/fr/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://uu815000.github.io/coehhu.com/tags/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"

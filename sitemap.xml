@@ -1,123 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://uu815000.github.io/coehhu.com/blog/</loc>
-    <lastmod>2019-12-02T12:22:40+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uu815000.github.io/coehhu.com/blog/first-content-by-zg/</loc>
-    <lastmod>2019-12-02T12:22:40+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uu815000.github.io/coehhu.com/</loc>
-    <lastmod>2019-12-02T12:22:40+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uu815000.github.io/coehhu.com/blog/blog-photos-on-phone.en/</loc>
-    <lastmod>2018-07-08T12:22:40+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uu815000.github.io/coehhu.com/blog/blog-photos-on-phone/</loc>
-    <lastmod>2018-07-08T12:22:40+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uu815000.github.io/coehhu.com/blog/installation/</loc>
-    <lastmod>2018-07-08T12:22:40+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uu815000.github.io/coehhu.com/blog/the-nourish-box-august/</loc>
-    <lastmod>2018-07-08T12:20:58+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uu815000.github.io/coehhu.com/blog/this-show-has-divided/</loc>
-    <lastmod>2018-07-08T12:18:46+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uu815000.github.io/coehhu.com/blog/why-you-need-a-statement-bag-this-season/</loc>
-    <lastmod>2018-07-08T12:11:29+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uu815000.github.io/coehhu.com/blog/_index.en/</loc>
-    <lastmod>2018-07-07T18:23:33+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uu815000.github.io/coehhu.com/blog/are-you-doing-the-right-way.en/</loc>
-    <lastmod>2018-07-07T17:04:41+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uu815000.github.io/coehhu.com/blog/are-you-doing-the-right-way.fr/</loc>
-    <lastmod>2018-07-07T17:04:41+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uu815000.github.io/coehhu.com/blog/something-i-need-to-tell-you/</loc>
-    <lastmod>2018-07-07T17:04:02+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uu815000.github.io/coehhu.com/blog/ten-things-about-business/</loc>
-    <lastmod>2018-07-07T16:57:54+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uu815000.github.io/coehhu.com/contact/_index.en/</loc>
-    <lastmod>2018-07-07T15:53:27+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uu815000.github.io/coehhu.com/contact/</loc>
-    <lastmod>2018-07-07T15:53:27+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uu815000.github.io/coehhu.com/portfolio/_index.en/</loc>
-    <lastmod>2018-07-07T15:45:06+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uu815000.github.io/coehhu.com/portfolio/</loc>
-    <lastmod>2018-07-07T15:45:06+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uu815000.github.io/coehhu.com/service/_index.en/</loc>
-    <lastmod>2018-07-07T14:53:13+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uu815000.github.io/coehhu.com/service/</loc>
-    <lastmod>2018-07-07T14:53:13+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uu815000.github.io/coehhu.com/about/_index.en/</loc>
-    <lastmod>2018-07-07T12:37:52+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uu815000.github.io/coehhu.com/about/</loc>
-    <lastmod>2018-07-07T12:37:52+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uu815000.github.io/coehhu.com/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://uu815000.github.io/coehhu.com/tags/</loc>
-  </url>
-  
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>https://uu815000.github.io/coehhu.com/fr/sitemap.xml</loc>
+		
+	   	<lastmod>2018-07-07T17:04:41+06:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://uu815000.github.io/coehhu.com/zh/sitemap.xml</loc>
+		
+	   	<lastmod>2019-12-02T12:22:40+06:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://uu815000.github.io/coehhu.com/en/sitemap.xml</loc>
+		
+	   	<lastmod>2018-07-08T12:22:40+06:00</lastmod>
+		
+	</sitemap>
+	
+</sitemapindex>
