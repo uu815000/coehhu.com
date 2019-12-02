@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on 标题 site multi-language</title>
+    <link>https://uu815000.github.io/coehhu.com/service/</link>
+    <description>Recent content in Services on 标题 site multi-language</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Jul 2018 14:53:13 +0600</lastBuildDate>
+    
+	<atom:link href="https://uu815000.github.io/coehhu.com/service/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Our Services</title>
+      <link>https://uu815000.github.io/coehhu.com/service/_index.en/</link>
+      <pubDate>Sat, 07 Jul 2018 14:53:13 +0600</pubDate>
+      
+      <guid>https://uu815000.github.io/coehhu.com/service/_index.en/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
