@@ -8,8 +8,7 @@ cd ../coehhu.com.src
 rm -rf public
 
 # Build the project.
-/e/web/hugo_0.59.1/hugo.exe
-
+/e/web/hugo_0.59.1/hugo.exe --disableFastRender
 # cd to web directory
 cd -
 
